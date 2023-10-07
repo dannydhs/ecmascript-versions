@@ -14,3 +14,10 @@
 # Ecmascript 7
 00. exponential
 01. array includes
+
+# Ecmascript 8
+00. object entries
+01. object values
+02. string padding
+03. trailing commas
+04. async function
