@@ -1,0 +1,15 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "proyect on node 18.16.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Danny Haro <danny.dhs@gmail.com>",
+  "license": "MIT"
+}
