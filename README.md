@@ -21,3 +21,9 @@
 02. string padding
 03. trailing commas
 04. async function
+
+# Ecmascript 9
+00. regex
+01. spread objects
+02. finally in promises
+03. asyn in generator and for
