@@ -27,3 +27,9 @@
 01. spread objects
 02. finally in promises
 03. asyn in generator and for
+
+# Ecmascript 10
+00. flatMap
+01. trimstart, trimend
+02. try-catch
+03. fromentries
