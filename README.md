@@ -42,3 +42,9 @@
 04. globalThis
 05. matchAll
 06. dynamic import
+
+# Ecmascript 11 (June 2021)
+00. numeric separators
+01. replace string
+02. promise.any
+03. private methods
