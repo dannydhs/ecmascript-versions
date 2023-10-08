@@ -33,3 +33,12 @@
 01. trimstart, trimend
 02. try-catch
 03. fromentries
+
+# Ecmascript 11
+00. optional chaining
+01. bigint
+02. nullish
+03. promise allSettled
+04. globalThis
+05. matchAll
+06. dynamic import
